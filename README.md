@@ -32,6 +32,8 @@
 
 The source code for the minimal admin panel app built during  [Code with Coding Cat](https://www.youtube.com/watch?v=gQt2km2ZtSw) podcast session.
 
+Checkout the live demo of the application [here](https://coding-cat-demo.netlify.app/).
+
 ## Try this example on your local
 
 ```bash
